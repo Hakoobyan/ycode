@@ -84,6 +84,11 @@ button {
     transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
     background: black;
     color: #fff;
+    translation: transform 0.2s ease;
+}
+
+button:active{
+transform: scale(0.95);
 }
 
 nav button:hover,
