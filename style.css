@@ -564,10 +564,6 @@ strong {
     padding: 0 0 0 15px;
 }
 
-.anylinks>a:nth-child(1) {
-    padding: 0 15px 0 0;
-}
-
 .footer-product>a,
 .footer-partner-product>a,
 .copyright-text>a {
